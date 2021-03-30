@@ -6,11 +6,13 @@ Bat echolocation research produces a large amount of data that takes a significa
 
 ## Table of Contents
   1. [Raw Data](https://github.com/haberkornm/Bat-Echolocation-Classification/tree/main/Raw_data)
-      - Mexico Library - Echolocation call library
-      - Truthed Library - Echolocation call library created by Matt Haberkorn
+      - Mexico Library - Echolocation call library created in Mexico [Reference](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12556)
+          -Mexico library was examined in EDA and determined to not be compatable with Truthed Library, therefore it was not used in modeling.
+      - Truthed Library - Echolocation call library created by Matt Haberkorn in Arizona
       - Truthed Library Kal - Cleaned-up version of Truthed Library for the purpos of testing accuracy of Kaleidoscope Pro
-  2. Data Cleaning
-  3. EDA
-  4. Clean Data
-  5. Modeling
-  6. Final Report
+  2. [Data Cleaning](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_Echolocation_datacleaning.ipynb)
+  3. [EDA](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_echolocation_EDA.ipynb)
+  4. [Clean Data](https://github.com/haberkornm/Bat-Echolocation-Classification/tree/main/Clean_data)
+      - Clean csv files ready for modeling.  Produced in data cleaning and EDA.  Contains files for all or three species modeling as well as scaled and unscaled data.
+  6. [Modeling](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_Echolocation_Modeling.ipynb)
+  7. [Final Report](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_Echolocation_Modeling.ipynb)
