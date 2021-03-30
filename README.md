@@ -6,9 +6,9 @@ Bat echolocation research produces a large amount of data that takes a significa
 
 ## Table of Contents
   1. [Raw Data](https://github.com/haberkornm/Bat-Echolocation-Classification/tree/main/Raw_data)
-      a. Mexico Library - Echolocation call library
-      b. Truthed Library - Echolocation call library created by Matt Haberkorn
-      c. Truthed Library Kal - Cleaned-up version of Truthed Library for the purpos of testing accuracy of Kaleidoscope Pro
+      - Mexico Library - Echolocation call library
+      - Truthed Library - Echolocation call library created by Matt Haberkorn
+      - Truthed Library Kal - Cleaned-up version of Truthed Library for the purpos of testing accuracy of Kaleidoscope Pro
   2. Data Cleaning
   3. EDA
   4. Clean Data
