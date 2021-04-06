@@ -17,4 +17,5 @@ Random Forest was determined to produce the model with the highest accuracy as w
   4. [Clean Data](https://github.com/haberkornm/Bat-Echolocation-Classification/tree/main/Clean_data)
       - Clean csv files ready for modeling.  Produced in data cleaning and EDA.  Contains files for all or three species modeling as well as scaled and unscaled data.
   6. [Modeling](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_Echolocation_Modeling.ipynb)
-  7. [Final Report](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat%20Echolocation%20Classification.pdf)
+  7. [Final Report](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat%20Echolocation%20Classification%20Final%20Report.pdf)
+  8. [Slide Presentation](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Echolocation%20Presentation%20Slides.pdf)
