@@ -11,7 +11,7 @@ Random Forest was determined to produce the model with the highest accuracy as w
       - Mexico Library - Echolocation call library created in Mexico [Reference](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12556)
           -Mexico library was examined in EDA and determined to not be compatable with Truthed Library, therefore it was not used in modeling.
       - Truthed Library - Echolocation call library created by Matt Haberkorn in Arizona
-      - Truthed Library Kal - Cleaned-up version of Truthed Library for the purpos of testing accuracy of Kaleidoscope Pro
+      - Truthed Library Kal - Cleaned-up version of Truthed Library for the purpose of testing accuracy of Kaleidoscope Pro
   2. [Data Cleaning](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_Echolocation_datacleaning.ipynb)
   3. [EDA](https://github.com/haberkornm/Bat-Echolocation-Classification/blob/main/Bat_echolocation_EDA.ipynb)
   4. [Clean Data](https://github.com/haberkornm/Bat-Echolocation-Classification/tree/main/Clean_data)
